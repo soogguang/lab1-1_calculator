@@ -1,18 +1,4 @@
-# lab1-1_calculator
-## lab1-1_calculator
-### lab1-1_calculator
+# 20243298 장수인
+> ai융합학부
 
-* lab1-1_calculator
-  + lab1-1_calculator
-    - lab1-1_calculator
-
-> lab1-1_calculator
->> lab1-1_calculator
-
-    lab1-1_calculator
-
-  <hr/>
-
-_lab1-1_calculator_
-__lab1-1_calculator__
-
+카페 정보 기반 게임 앱 개발
